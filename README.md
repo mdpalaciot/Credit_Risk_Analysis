@@ -18,6 +18,32 @@ SMOTEENN Combination Sampling
 Balanced Random Forest Classifier
 Easy Ensemble Classifier
 
+## Results
+
+### Random Oversampling 
+
+![Random_Oversampling](Images/random_oversampling.png)
+
+### SMOTE Oversampling 
+
+![smote_oversampling](Images/smote_oversampling.png)
+
+### ClusterCentroids Resample
+
+![centroid_undersampling](Images/centroid_undersampling.png)
+
+### SMOTEENN Combination Sampling
+
+![combination_sampling](Images/combination_sampling.png)
+
+### Balanced Random Forest Classifier
+
+![Summary](Images/Summary.png)
+
+### Easy Ensemble Classifier
+
+![Summary](Images/Summary.png)
+
 
 ## Summary
 
@@ -25,7 +51,7 @@ In the first four models it was deployed an undersampled, oversampled and a comb
 
 Here is a summary of the results:
 
-
+![Summary](Images/Summary.png)
 
 ## Recomendations
 
