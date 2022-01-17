@@ -38,11 +38,11 @@ Easy Ensemble Classifier
 
 ### Balanced Random Forest Classifier
 
-![Summary](Images/Summary.png)
+![balance_random](Images/balance_random.png)
 
 ### Easy Ensemble Classifier
 
-![Summary](Images/Summary.png)
+![easy_esemble](Images/easy_esemble.png)
 
 
 ## Summary
